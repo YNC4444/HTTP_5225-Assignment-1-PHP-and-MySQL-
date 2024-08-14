@@ -1,1 +1,1 @@
-TODO: fill out README
+Displays all characters in wuthering waves
